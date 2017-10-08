@@ -260,8 +260,6 @@ bin/
 obj/
 *.userprefs
 
-##Paket
-paket.lock
 
 ##FAKE
 .fake/
@@ -270,3 +268,4 @@ paket.lock
 !tools/NuGet/nuget.exe
 !tools/Paket/paket.exe
 
+.paket/paket.exe
